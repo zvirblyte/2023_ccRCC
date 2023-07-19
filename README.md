@@ -1,6 +1,7 @@
-This repository contains Jupyter notebooks used for scRNA-seq data analysis in paper "Single-cell transcriptional profiling of clear cell renal cell carcinoma reveals an invasive tumor vasculature phenotype." [1]
+This repository contains Jupyter notebooks used for scRNA-seq data analysis starting with cell x gene matrices in paper "Single-cell transcriptional profiling of clear cell renal cell carcinoma reveals an invasive tumor vasculature phenotype." [1]
 
-Most of the notebooks presented in this directory were taken directly and adapted from https://github.com/AllonMKlein/Pfirschke_et_al_2021. Thank you Rapolas Zilionis for guidance on using this resource. 
+Most of the notebooks presented in this directory were taken directly and adapted from https://github.com/AllonMKlein/Pfirschke_et_al_2021. Sincere gratitude to Rapolas Zilionis for guidance on using this resource. 
+
 
 Description of files:
 
